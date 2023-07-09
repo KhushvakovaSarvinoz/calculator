@@ -1,1 +1,1 @@
-This app created by using HTML, CSS and JS
+This app created by using HTML and CSS 
